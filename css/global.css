@@ -246,3 +246,9 @@ nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
         font-size: 65%;   
     }
 }
+
+@media (orientation:portrait) {
+    .hide-on-portrait {
+        display: none;
+    }
+}
